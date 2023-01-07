@@ -53,7 +53,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 ["African-Movie-Festival"] <a name="about-project"></a>
+# 📖 [African-Movie-Festival] <a name="about-project"></a>
 
 > African Movie festival is aimed to showcase African ability to produce their own movies, and recognizing Africans film makers
 
@@ -127,7 +127,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-If you like this project Fell free to contribute to this projec
+If you like this project Fell free to contribute to this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,7 @@ If you like this project Fell free to contribute to this projec
 
 
 
-I would like to thank Cindy Shin in Behance for the amazing UXgit 
+I would like to thank Cindy Shin in Behance for the amazing UX
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
