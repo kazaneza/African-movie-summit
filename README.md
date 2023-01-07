@@ -11,7 +11,7 @@
 
 # 📖 Capstone 1 <a name="AFRICAN MOVIES FESTIVAL"></a>
 
-> Africa Movies was established in 2020 to bring on-board the African youth to the Movie industry. We welcome you for our  third screening event.
+> Africa Movies was established in 2023 to bring on-board the African youth to the Movie industry. We welcome you for our  third screening event.
                  
                
 ## 🛠 Built With <a name="built-with">HTML, CSS, Sass & Javascript</a>
