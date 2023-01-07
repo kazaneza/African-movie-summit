@@ -137,7 +137,7 @@ If you like this project Fell free to contribute to this projec
 
 
 
-I would like to thank Cindy Shin in Behance
+I would like to thank Cindy Shin in Behance for the amazing UX
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
