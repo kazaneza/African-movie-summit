@@ -336,16 +336,16 @@
     align-items: center;
     justify-content: center;
   }
-
-  .common {
-    flex-basis: 50%;
-  }
-
-  .copyright {
-    flex-basis: 60%;
-  }
+/* stylelint-disable */
+    .common {
+      flex-basis: 50%;
+    }
   
-  .about-section {
+    .copyright {
+      flex-basis: 60%;
+    }
+
+    .about-section {
     background-image: url(../images/abt-back.png);
     height: 100vh;
   }
