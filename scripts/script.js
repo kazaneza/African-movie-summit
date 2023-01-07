@@ -1,5 +1,5 @@
-//Create speakers sections
 
+/* jshint ignore:start*/
 const speakersData = [
   {
     photo: './images/one.jpg',
@@ -62,7 +62,7 @@ speakersData.forEach((speaker) => {
         </article> `;
 });
 
-// --------------------- Mobile-Menu------------------
+/* jshint ignore:end */
 
 const mobileMenu = document.querySelector('.main-menu');
 const closeBtn = document.getElementById('close');
