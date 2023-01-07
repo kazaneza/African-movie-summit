@@ -1,4 +1,3 @@
-
 /*eslint-disable */
 
 const speakersData = [
@@ -75,4 +74,4 @@ hamburger.onclick = function showMenu() {
 closeBtn.onclick = function closeMenu() {
   mobileMenu.style.display = none = 'none';
 };
-/*eslint-enable */
+/* eslint-enable */
