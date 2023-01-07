@@ -344,9 +344,7 @@
   .copyright {
     flex-basis: 60%;
   }
-
-
-
+  
   .about-section {
     background-image: url(../images/abt-back.png);
     height: 100vh;
@@ -436,6 +434,7 @@
     color: #fff;
   }
 }
+
 
 .title,
 .about-title {
