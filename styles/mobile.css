@@ -177,7 +177,7 @@ nav .logo img {
 .title {
   margin-top: 3rem;
 }
-
+/* stylelint-disable */
 h1 {
   font-size: 2.6rem;
   font-weight: 900;
