@@ -29,9 +29,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]()
+- [Live Demo Link](https://kazaneza.github.io/African-movie-summit/)
 
-- [Loom Video Link]()
+- [Loom Video Link](https://www.loom.com/share/96f022c3bc3a42c48103ee0c4554bf0e)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
