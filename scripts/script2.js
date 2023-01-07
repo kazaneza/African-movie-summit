@@ -1,4 +1,4 @@
-// --------------------- Mobile-Menu------------------
+/*eslint-enable */
 
 const mobileMenu = document.querySelector('.main-menu');
 const closeBtn = document.getElementById('close');
@@ -10,3 +10,4 @@ hamburger.onclick = function showMenu() {
 closeBtn.onclick = function closeMenu() {
   mobileMenu.style.display = none = 'none';
 };
+/*eslint-enable */
