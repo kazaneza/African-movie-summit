@@ -25,14 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -60,7 +53,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 ["African-Movie-Festival"] <a name="about-project"></a>
 
 > African Movie festival is aimed to showcase African ability to produce their own movies, and recognizing Africans film makers
 
@@ -69,15 +62,19 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> I have used HTML and CSS in this project and also Javascript in implementing Js Dynamic function to take data and display the speakers info.
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="#">HTML</a></li>
-    <li><a href="#">CSS</a></li>
-    <li><a href="#">jAVASCRIPT</a></li>
-  </ul>
+  <summary>HTML</summary>
+  
+</details>
+<details>
+  <summary>CSS</summary>
+  
+</details>
+<details>
+  <summary>JAVASCRIPT</summary>
+  
 </details>
 
 <!-- LIVE DEMO -->
@@ -88,7 +85,7 @@ After you're finished please remove all the comments and instructions!
 
 - [Live Demo Link](https://kazaneza.github.io/African-movie-summit/)
 
-- [Live Demo Link](https://kazaneza.github.io/African-movie-summit/)
+- [Loom Video Link](https://kazaneza.github.io/African-movie-summit/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
